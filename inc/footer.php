@@ -23,14 +23,35 @@
 
                 </div>
             </div>
-            <div class="row">
+            <div class="row w-100">
                 <div class="row align-items-center ">
-                    <div class="col  text-center text-md-left align-items-center ">
+                    <div class="col-md-4   text-center text-md-left align-items-center ">
                         <a href="index.php" class=""><img src="images/KPIGIL-Logo-1024.jpg" width="150px" height="150px" alt=""></a>
 
-                        <div class="col-lg-5 col-sm-5  ">
+                        <div class="col-md-12  margin-15px-top  ">
                             <span class="alt-font title-small font-weight-500  w-100 text-white margin-20px-bottom xs-margin-10px-bottom">Company</span>
-                            <p class="w-100 margin-15px-bottom text-large" style="color: white;">We are committed to creating a sustainable environment by promoting energy efficiency, water conservation, pollution reduction, plantation and recycling in the communities we operate.</p>
+                            <p class="w-auto margin-15px-top text-large" style="color: white;">We are committed to creating a sustainable environment by promoting energy efficiency, water conservation, pollution reduction, plantation and recycling in the communities we operate.</p>
+
+                        </div>
+                    </div>
+                    <!-- <div class="col-md-4 margin-20px-top text-center text-md-left ">
+
+                        <div class="col-md-10 margin-15px-top  ">
+                            <span class="alt-font title-small font-weight-500  w-100 text-white margin-20px-bottom xs-margin-10px-bottom">Useful Links</span>
+                            <ul>
+                                <li><a href="faq.php" style="color: white;">Careers</a></li>
+                                <li><a href="s-cosmetic-dentistry.php" style="color: white;">Cosmetic Dentistry</a></li>
+                                <li><a href="s-smile-design.php" style="color: white;">Smile Design</a></li>
+                                <li><a href="s-root-canal-treatment.php" style="color: white;">Root Canal Treatment</a></li>
+                            </ul>
+
+                        </div>
+                    </div> -->
+                    <div class="col-md-4  margin-20px-top text-center text-md-left ">
+
+                        <div class="col-md-10   ">
+                            <span class="alt-font title-small font-weight-500  w-100 text-white margin-20px-bottom xs-margin-10px-bottom">Useful Links</span>
+                            <p class="w-auto margin-15px-top text-large" style="color: white;">We are committed to creating a sustainable environment by promoting energy efficiency, water conservation, pollution reduction, plantation and recycling in the communities we operate.</p>
 
                         </div>
                     </div>

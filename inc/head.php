@@ -1,5 +1,5 @@
 <head>
-    <title>M Dent Care | Home</title>
+    <title>Saqlain Portfolio</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="YITS">
